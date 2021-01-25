@@ -218,13 +218,9 @@
 
 <item>
 <title>O PODEROSO CHEFÃO TESTER - 1990: [COLOR gold]IMDB: 7.6[/COLOR]</title>
-<name>LINK1</name><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55db73f1684502b45e934b749fefc94acbc523bb</link>
-<name>LINK2<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55db73f1684502b45e934b749fefc94acbc523bb</link></name>
-<name><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55db73f1684502b45e934b749fefc94acbc523bb</link>LINK3</name>
-<link>plugin://plugin.video.elementum/play?uri=LINK4%magnet:?xt=urn:btih:55db73f1684502b45e934b749fefc94acbc523bb</link>
-<link>plugin://plugin.video.elementum/play?uri=LINK5&magnet:?xt=urn:btih:55db73f1684502b45e934b749fefc94acbc523bb</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55db73f1684502b45e934b749fefc94acbc523bb&LINK6</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55db73f1684502b45e934b749fefc94acbc523bb$LINK6</link>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:55db73f1684502b45e934b749fefc94acbc523bb</link>
+<link>plugin://plugin.video.pulsar/play?uri=magnet:?xt=urn:btih:55db73f1684502b45e934b749fefc94acbc523bb</link>
+plugin://plugin.video.pulsar/play?uri=magnet:?xt=urn:btih:55db73f1684502b45e934b749fefc94acbc523bb+magnet:?xt=urn:btih:55db73f1684502b45e934b749fefc94acbc523bb</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6kKs45futNbmKkt4SxousPqHDKP.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/lcYfsq6CrjcLwDdCwpkAu1xZdvK.jpg</fanart>
 </item>
