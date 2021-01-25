@@ -93,3 +93,15 @@
 [COLOR white][B]Entre para os melhores filmes de todos os tempos[/COLOR][/B]</info>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>[B]FILMES - TORRENT/MAGNET[/B]</name>
+<thumbnail>https://ewscripps.brightspotcdn.com/dims4/default/ebf1806/2147483647/strip/true/crop/1000x563+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F84%2Ffd%2F01145d084cd2b2a6a4296467c72d%2Fthe-lion-king-official-trailer-disney-screenshot.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/TBSILVO1/MOVIEPLAY/main/TORRENT-MAGNET/Filmes</externallink>
+<fanart>https://ewscripps.brightspotcdn.com/dims4/default/ebf1806/2147483647/strip/true/crop/1000x563+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F84%2Ffd%2F01145d084cd2b2a6a4296467c72d%2Fthe-lion-king-official-trailer-disney-screenshot.png</fanart>
+<info>
+
+[COLOR white][B]Entre para filmes via torrent[/COLOR][/B]</info>
+</channel>
+</channels>
