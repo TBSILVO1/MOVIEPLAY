@@ -71,8 +71,27 @@
 <item>
 <title>JURASSIC PARK: O PARQUE DOS DINOSSAUROS - 1993: [COLOR gold]IMDB: 8.1[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8fb4bd1b40590cf204d8fde8ba0c1879330dd255</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:45c9ac5e84b31935930b1ad869e5d750d01f4daa</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:89c69c51974e93fdeb16d2649188b52c7f6dec81</link>
+<link>plugin://SEGUNDO/play?uri=magnet:?xt=urn:btih:45c9ac5e84b31935930b1ad869e5d750d01f4daa</link>
+<link>plugin://TERCEIRO/play?uri=magnet:?xt=urn:btih:89c69c51974e93fdeb16d2649188b52c7f6dec81</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mgjJ7FH4V3exsmoHwXrmsUhn0h1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/um7dCYud1VGIsjTmSTvhO0QNTFr.jpg</fanart>
+</item>
+
+
+<item>
+<title>JURASSIC PARK: O PARQUE DOS DINOSSAUROS - 1993: [COLOR gold]IMDB: 8.1[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8fb4bd1b40590cf204d8fde8ba0c1879330dd255
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:45c9ac5e84b31935930b1ad869e5d750d01f4daa
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:89c69c51974e93fdeb16d2649188b52c7f6dec81</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mgjJ7FH4V3exsmoHwXrmsUhn0h1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/um7dCYud1VGIsjTmSTvhO0QNTFr.jpg</fanart>
+</item>
+
+<item>
+<title>JURASSIC PARK: O PARQUE DOS DINOSSAUROS - 1993: [COLOR gold]IMDB: 8.1[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8fb4bd1b40590cf204d8fde8ba0c1879330dd255
+magnet:?xt=urn:btih:45c9ac5e84b31935930b1ad869e5d750d01f4daa
+magnet:?xt=urn:btih:89c69c51974e93fdeb16d2649188b52c7f6dec81</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mgjJ7FH4V3exsmoHwXrmsUhn0h1.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/um7dCYud1VGIsjTmSTvhO0QNTFr.jpg</fanart>
 </item>
