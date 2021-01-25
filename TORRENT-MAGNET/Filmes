@@ -1,20 +1,27 @@
 <item>
-<title>Mulher-Maravilha 1984 (2020) 1</title>
-<link>plugin://plugin.video.quasar/play_magnet?magnet=magnet:?xt=urn:btih:bb8d5bffe4d9b05f08121dacd9a418815f730e93</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qDA95ebiy3W3m8hTRB3xZNZVVBM.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/egg7KFi18TSQc1s24RMmR9i2zO6.jpg</fanart>
-</item>
-
-<item>
-<title>Mulher-Maravilha 1984 (2020) 2</title>
-<link>plugin://plugin.video.elementum/play_magnet?magnet=magnet:?xt=urn:btih:bb8d5bffe4d9b05f08121dacd9a418815f730e93</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qDA95ebiy3W3m8hTRB3xZNZVVBM.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/egg7KFi18TSQc1s24RMmR9i2zO6.jpg</fanart>
-</item>
-
-<item>
 <title>Mulher-Maravilha 1984 (2020) 3</title>
-<link>plugin://plugin.video.elementum/playtorrent=magnet:?xt=urn:btih:bb8d5bffe4d9b05f08121dacd9a418815f730e93</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb8d5bffe4d9b05f08121dacd9a418815f730e93</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qDA95ebiy3W3m8hTRB3xZNZVVBM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/egg7KFi18TSQc1s24RMmR9i2zO6.jpg</fanart>
+</item>
+
+<item>
+<title>Mulher-Maravilha 1984 (2020) 4</title>
+<link>plugin://plugin.video.elementum/play?uri=:?xt=urn:btih:bb8d5bffe4d9b05f08121dacd9a418815f730e93</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qDA95ebiy3W3m8hTRB3xZNZVVBM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/egg7KFi18TSQc1s24RMmR9i2zO6.jpg</fanart>
+</item>
+
+<item>
+<title>Mulher-Maravilha 1984 (2020) 5</title>
+<link>plugin://plugin.video.elementum/play?uri=?xt=urn:btih:bb8d5bffe4d9b05f08121dacd9a418815f730e93</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qDA95ebiy3W3m8hTRB3xZNZVVBM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/egg7KFi18TSQc1s24RMmR9i2zO6.jpg</fanart>
+</item>
+
+<item>
+<title>Mulher-Maravilha 1984 (2020) 5</title>
+<link>plugin://plugin.video.elementum/play?uri=?bb8d5bffe4d9b05f08121dacd9a418815f730e93</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qDA95ebiy3W3m8hTRB3xZNZVVBM.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/egg7KFi18TSQc1s24RMmR9i2zO6.jpg</fanart>
 </item>
