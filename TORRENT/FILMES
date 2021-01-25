@@ -152,18 +152,18 @@
 
 <item>
 <title>JOHN WICK II: UM NOVO DIA PARA MATAR - 2017: [COLOR gold]IMDB: 7.5[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f3df69982f312cf0f10b7826c75e8e48474aead7</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f564d1711f5817589a5c7e8ced467f65b9a1d93f</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28b66d9a55fb0084ea48716be129637e0a300e34</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aed077b83ac8d1828247a9f3a808ed06ea42f6f9</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d40dd44066d2fc7b73a87effd1039c13d8ec694c</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae39f23c416945c291da5fc962b9b21096e20e18</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/r17jFHAemzcWPPtoO0UxjIX0xas.jpg</fanart>
 </item>
 
 <item>
 <title>JOHN WICK III: PARABELLUM - 2019: [COLOR gold]IMDB: 7.4[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aed077b83ac8d1828247a9f3a808ed06ea42f6f9</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d40dd44066d2fc7b73a87effd1039c13d8ec694c</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae39f23c416945c291da5fc962b9b21096e20e18</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f3df69982f312cf0f10b7826c75e8e48474aead7</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f564d1711f5817589a5c7e8ced467f65b9a1d93f</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28b66d9a55fb0084ea48716be129637e0a300e34</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eDIxIvpBm5MsHuafEEmCQIKfG4u.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/vVpEOvdxVBP2aV166j5Xlvb5Cdc.jpg</fanart>
 </item>
@@ -211,6 +211,16 @@
 <item>
 <title>O PODEROSO CHEFÃO III - 1990: [COLOR gold]IMDB: 7.6[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55db73f1684502b45e934b749fefc94acbc523bb</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83b9837b116727ff698d2743c0b4a869a2e1c281</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6kKs45futNbmKkt4SxousPqHDKP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lcYfsq6CrjcLwDdCwpkAu1xZdvK.jpg</fanart>
+</item>
+
+<item>
+<title>O PODEROSO CHEFÃO TESTE - 1990: [COLOR gold]IMDB: 7.6[/COLOR]</title>
+<title>vários links</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55db73f1684502b45e934b749fefc94acbc523bb</link>
+<title>links 2</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83b9837b116727ff698d2743c0b4a869a2e1c281</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6kKs45futNbmKkt4SxousPqHDKP.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/lcYfsq6CrjcLwDdCwpkAu1xZdvK.jpg</fanart>
