@@ -33,3 +33,22 @@
 <fanart>https://www.themoviedb.org/t/p/original/8IZ2UxuFePxmMhzyqpBGNN6VznQ.jpg</fanart>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>THE BOYS</name>
+<externallink>https://raw.githubusercontent.com/TBSILVO1/MOVIEPLAY/main/TORRENT/SERIES/THE%20BOYS/TEMPORADAS</externallink>
+<thumbnail>https://image.tmdb.org/t/p/w342/g3HjUeFCwKOfBxlM97lv016mnol.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bI37vIHSH7o4IVkq37P8cfxQGMx.jpg</fanart>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>GAME OF THRONES</name>
+<externallink>https://raw.githubusercontent.com/TBSILVO1/MOVIEPLAY/main/TORRENT/SERIES/GAME%20OF%20THRONES/TEMPORADAS</externallink>
+<thumbnail>https://image.tmdb.org/t/p/w342/o6ud0A7FgqneW7OpI5N9VnRFciW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/suopoADq0k8YZr4dQXcU6pToj6s.jpg</fanart>
+</channel>
+</channels>
+
