@@ -37,3 +37,13 @@
 <info>Entre para filmes com ORDEM ALFABÉTICA.</info>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]● [/COLOR]CATEGORIA: [COLOR lime]SERIES[/COLOR][/B]</name>
+<externallink>LINK SERIES</externallink>
+<thumbnail>https://ia601406.us.archive.org/5/items/series_20200510/series.png</thumbnail>
+<fanart>https://ia601504.us.archive.org/0/items/entrar_20200510_0411/Fanart.png</fanart>
+<info>Entre para filmes com SERIES.</info>
+</channel>
+</channels>
