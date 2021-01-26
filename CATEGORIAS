@@ -1,16 +1,14 @@
 <channels>
 <channel>
-<name>[B]LANÇAMENTOS 2020[/B]</name>
-<thumbnail>https://ia601509.us.archive.org/7/items/lancamentos_202009/Lan%C3%A7amentos.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/TBSILVO1/MOVIEPLAY/main/LANCAMENTOS</externallink>
-<fanart>https://ia601509.us.archive.org/7/items/lancamentos_202009/Lan%C3%A7amentos.png</fanart>
+<name>[B][COLOR lime]FILMES E SERIES MAGNET[/COLOR][/B]</name>
+<thumbnail>https://cdn2.iconfinder.com/data/icons/metro-ui-dock/512/uTorrent_alt.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/TBSILVO1/MOVIEPLAY/main/TORRENT/ENTRADA</externallink>
+<fanart>https://cdn2.iconfinder.com/data/icons/metro-ui-dock/512/uTorrent_alt.png</fanart>
 <info>
 
-[COLOR white][B]Entre para filmes lançamentos[/COLOR][/B]</info>
+[COLOR white][B]Entre para filmes e séries por links magnéticos[/COLOR][/B]</info>
 </channel>
 </channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
 <channel>
@@ -94,14 +92,3 @@
 </channel>
 </channels>
 
-<channels>
-<channel>
-<name>[B][COLOR lime]TORRENTS[/COLOR][/B]</name>
-<thumbnail>https://cdn2.iconfinder.com/data/icons/metro-ui-dock/512/uTorrent_alt.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/TBSILVO1/MOVIEPLAY/main/TORRENT/ENTRADA</externallink>
-<fanart>https://cdn2.iconfinder.com/data/icons/metro-ui-dock/512/uTorrent_alt.png</fanart>
-<info>
-
-[COLOR white][B]Entre para filmes via torrent[/COLOR][/B]</info>
-</channel>
-</channels>
