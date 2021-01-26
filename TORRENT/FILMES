@@ -218,9 +218,8 @@
 
 <item>
 <title>O PODEROSO CHEFÃO TESTER - 1990</title>
-<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:55db73f1684502b45e934b749fefc94acbc523bb</link>
-<link>plugin://plugin.video.pulsar/play?uri=magnet:?xt=urn:btih:55db73f1684502b45e934b749fefc94acbc523bb</link>
-plugin://plugin.video.pulsar/play?uri=magnet:?xt=urn:btih:55db73f1684502b45e934b749fefc94acbc523bb+magnet:?xt=urn:btih:55db73f1684502b45e934b749fefc94acbc523bb</link>
+<link>plugin://plugin.video.elementum/play?uri=720p=magnet:?xt=urn:btih:83b9837b116727ff698d2743c0b4a869a2e1c281</link>
+<link>plugin://plugin.video.elementum/play?uri=1080p=magnet:?xt=urn:btih:83b9837b116727ff698d2743c0b4a869a2e1c281</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6kKs45futNbmKkt4SxousPqHDKP.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/lcYfsq6CrjcLwDdCwpkAu1xZdvK.jpg</fanart>
 </item>
