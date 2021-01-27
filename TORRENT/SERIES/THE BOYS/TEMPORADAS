@@ -1,7 +1,7 @@
 <item>
-<title>11 - TEMPORADA</title>
-<plot><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f22370237fc1f8adde6bde8883bafdc172b029ba</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9c90b5dd957f1a4bbfc57dddc6709476ff48a5b7</link></plot>
+<title>1 - TEMPORADA</title>
+<showlink><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f22370237fc1f8adde6bde8883bafdc172b029ba</link></showlink>LINK1
+<showlink><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9c90b5dd957f1a4bbfc57dddc6709476ff48a5b7</link></showlink>LINK2
 <thumbnail>https://image.tmdb.org/t/p/w342/g3HjUeFCwKOfBxlM97lv016mnol.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/bI37vIHSH7o4IVkq37P8cfxQGMx.jpg</fanart>
 </item>
