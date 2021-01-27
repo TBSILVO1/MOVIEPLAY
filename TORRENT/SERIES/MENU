@@ -69,3 +69,21 @@
 <fanart>https://www.themoviedb.org/t/p/original/uE3MWwQsiaEjtS78lFj00If8AZO.jpg</fanart>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>[B]CHERNOBYL[/B]</name>
+<externallink>https://raw.githubusercontent.com/TBSILVO1/MOVIEPLAY/main/TORRENT/SERIES/CHERNOBYL/TEMPORADAS</externallink>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Tenk69NgBpSUfBaVDTieCQfovq.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B]DOOM PATROL[/B]</name>
+<externallink>https://raw.githubusercontent.com/TBSILVO1/MOVIEPLAY/main/TORRENT/SERIES/DOOM%20PATROL/MENU%20TEMPORADAS</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6kUWtKaYWmrdY0cWhtTU6p5d4gc.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/l35BUt404qlY7Lzke2aY8pYuYB2.jpg</fanart>
+</channel>
+</channels>
