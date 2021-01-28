@@ -21,9 +21,8 @@
 
 <item>
 <title>GODZILLA - 2019</title>
-<link>plugin://plugin.video.elementum/play?uri=$godzillamagnet:?xt=urn:btih:cf21207f9631b087f293ae2971e19a871f55bd32</link>
-<link>plugin://plugin.video.elementum/play?uri=godzilla$magnet:?xt=urn:btih:cf21207f9631b087f293ae2971e19a871f55bd32</link>
-<link>plugin://plugin.video.elementum/play?uri=godzilla&magnet:?xt=urn:btih:cf21207f9631b087f293ae2971e19a871f55bd32</link>
+<link>plugin://plugin.video.elementum/play?uri=$godzilla[magnet:?xt=urn:btih:cf21207f9631b087f293ae2971e19a871f55bd32]</link>
+<link>plugin://plugin.video.elementum/play?uri=$godzilla[magnet:?xt=urn:btih:cf21207f9631b087f293ae2971e19a871f55bd32]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/2umU3r6V4V2gTmSnZJmH61nTorF.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/zFXFcm7gee4nPfwYU3KDCaXdJoF.jpg</fanart>
 </item>
