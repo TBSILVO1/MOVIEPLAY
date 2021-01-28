@@ -18,3 +18,27 @@
 <thumbnail>https://image.tmdb.org/t/p/w342/2umU3r6V4V2gTmSnZJmH61nTorF.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/zFXFcm7gee4nPfwYU3KDCaXdJoF.jpg</fanart>
 </item>
+
+<item>
+<title>[COLOR red]Alma Gemea (200) - (480p)[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLIjRzDkNY5LKD6M_eh3yAQxiljPjUvCP_/?page=0</jsonrpc>
+<thumbnail>http://sergiogracas.com/emular/kodi/imagens/almagemea.jpg</thumbnail>
+<fanart>http://sergiogracas.com/emular/kodi/imagens/almagemea.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Cabloca (167) - (480p)[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLxmLYSscou_MmzSRr8VJ1r_4dEoLh4uIG/?page=0</jsonrpc>
+<thumbnail>http://sergiogracas.com/emular/kodi/imagens/cabloca.jpg</thumbnail>
+<fanart>http://sergiogracas.com/emular/kodi/imagens/cabloca.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]A Viagem (165) - (480p)[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLpPCywuBlnQSI_tqCazKKw05KlDgn1UZL/?page=0</jsonrpc>
+<thumbnail>http://sergiogracas.com/emular/kodi/imagens/aviagem.jpg</thumbnail>
+<fanart>http://sergiogracas.com/emular/kodi/imagens/aviagem.jpg</fanart>
+</item>
