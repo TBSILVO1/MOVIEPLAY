@@ -63,10 +63,18 @@
 
 <channels>
 <channel>
-<name>[B]UNIVERSO MARVEL[/B]</name>
+<name>[B]UNIVERSO CINEMATOGRÁFICO MARVEL[/B]</name>
 <externallink>https://raw.githubusercontent.com/TBSILVO1/MOVIEPLAY/main/TORRENT/FILMES%20FRANQUIAS/UNIVERSO%20MARVEL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hiLkVTP34V24JtzOQ22r7Uu8eMc.jpg</thumbnail>
 <fanart>https://cdn.hipwallpaper.com/i/49/47/8f5Mac.png</fanart>
 </channel>
 </channels>
 
+<channels>
+<channel>
+<name>[B]MARVEL COMICS[/B]</name>
+<externallink>https://raw.githubusercontent.com/TBSILVO1/MOVIEPLAY/main/TORRENT/FILMES%20FRANQUIAS/MARVEL</externallink>
+<thumbnail>https://i.pinimg.com/originals/9a/9c/e9/9a9ce90fc5f2bb2fcedc90fd154524f9.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/9a/9c/e9/9a9ce90fc5f2bb2fcedc90fd154524f9.jpg</fanart>
+</channel>
+</channels>
