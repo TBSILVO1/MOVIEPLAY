@@ -15,7 +15,7 @@
 </item>
 
 <item>
-<title>[B]MADAGÁSCAR 3: OS PROCURADOS - [COLOR gold]2009[/B][/COLOR]</title>
+<title>[B]MADAGÁSCAR 3: OS PROCURADOS - [COLOR gold]2012[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c7f2bdc02fa743245192ec608cd555ec935fcf57</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4bdcf068bb98c3410b64f733585cee0268c829c1</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bPRvFj9MGeLeqidaTniUf8yQ0PW.jpg</thumbnail>
@@ -23,10 +23,24 @@
 </item>
 
 <item>
-<title>[B] - [COLOR gold]2009[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>[B][COLOR gold]BONUS:[/B][/COLOR]</title>
+<link>invalid</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ywRtBu88SLAkNxD0GFib6qsFkBK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sNNFLEcAuy4C3RyXCnKoArn7Aty.jpg</fanart>
+</item>
+
+<item>
+<title>[B]FÉRIAS CLÁSSICAS - [COLOR gold]2012[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d35fcfe41855fcd40e1a28cbc2e32b8fc3176c0</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/yKfYz4orhr868isBVUgElckuGJV.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w342/yKfYz4orhr868isBVUgElckuGJV.jpg</fanart>
+</item>
+
+<item>
+<title>[B]OS PINGUINS DE MADAGASCAR - [COLOR gold]2014[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce9fecf76e52d42bc01b050dda12ead5da1927de</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce9fecf76e52d42bc01b050dda12ead5da1927de</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb1b068ce17049bac48693b889b8a775cb6d3ed9</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w9jno0ySammISRGvc0RZREjYUvg.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2QMgoiDlTmrO9FngZft8GgZ2SbX.jpg</fanart>
 </item>
