@@ -30,13 +30,13 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]● [/COLOR]CATEGORIA: [COLOR lime]ORDEM ALFABÉTICA[/COLOR][/B]</name>
+<name>[B][COLOR lime]● [/COLOR]CATEGORIA: [COLOR lime]FILMES DIVERSOS[/COLOR][/B]</name>
+<externallink>https://raw.githubusercontent.com/TBSILVO1/MOVIEPLAY/main/TORRENT/FILMES/DIVERSOS</externallink>
 <thumbnail>https://ia601406.us.archive.org/5/items/series_20200510/filmes.png</thumbnail>
-<externallink>https://github.com/TBSILVO1/MOVIEPLAY/raw/main/TORRENT/ORDEM%20ALFABETICA</externallink>
 <fanart>https://ia601504.us.archive.org/0/items/entrar_20200510_0411/Fanart.png</fanart>
-<info>Entre para filmes com ORDEM ALFABÉTICA.</info>
 </channel>
 </channels>
+
 
 <channels>
 <channel>
