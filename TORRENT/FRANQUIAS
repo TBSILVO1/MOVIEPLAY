@@ -204,3 +204,12 @@
 <fanart>https://www.themoviedb.org/t/p/original/2l5UHZBcp9cx1PwKLdisJ0gV9jB.jpg</fanart>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>[B]UNIVERSO DC[/B]</name>
+<externallink>https://raw.githubusercontent.com/TBSILVO1/MOVIEPLAY/main/TORRENT/FILMES%20FRANQUIAS/DC</externallink>
+<thumbnail>https://emby.media/community/uploads/inline/7975/5bbffb9f4553a_DCCollectionposter.png</thumbnail>
+<fanart>https://cinesiageek.com.br/wp-content/uploads/2020/08/dc-comics-logo.jpg</fanart>
+</channel>
+</channels>
