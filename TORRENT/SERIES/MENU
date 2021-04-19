@@ -243,9 +243,27 @@
 
 <channels>
 <channel>
-<name>[B]MAYANS M.C.[/B]</name>
-<externallink>https://raw.githubusercontent.com/TBSILVO1/MOVIEPLAY/main/TORRENT/SERIES/MAYANS%20M.C/1</externallink>
-<thumbnail>https://image.tmdb.org/t/p/w342/cw1ujOloDm7DY2AlWtxxrhptccM.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/43yEwj8aJigrDMmBlF6JQrCUrXY.jpg</fanart>
+<name>[B]THE WITCHER[/B]</name>
+<externallink>https://raw.githubusercontent.com/TBSILVO1/MOVIEPLAY/main/TORRENT/SERIES/THE%20WITCHER/1</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A2oBYUKgjdy0UeIP88kkdyjw8z6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/c6pDSZjrp07Lk9RNj6BM29P2Ibj.jpg</fanart>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B]DOTA: DRAGON'S BLOOD[/B]</name>
+<externallink>https://raw.githubusercontent.com/TBSILVO1/MOVIEPLAY/main/TORRENT/SERIES/DOTA/1</externallink>
+<thumbnail>https://image.tmdb.org/t/p/w342/x1qjRjevcFrPrCbnesoN1HUG6Fm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ifGVUbvl36CnY9mp4kquK8In1Rh.jpg</fanart>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B]THE OFFICE: VIDA DE ESCRITÓRIO[/B]</name>
+<externallink>https://raw.githubusercontent.com/TBSILVO1/MOVIEPLAY/main/TORRENT/SERIES/THE%20OFFICE/TEMPORADAS</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sxrZbrMopVPyiepv7tQDrW0osiy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e1jOab4j75YQi3ZAirjPzjHrTi3.jpg</fanart>
 </channel>
 </channels>
