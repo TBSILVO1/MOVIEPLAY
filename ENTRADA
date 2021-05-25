@@ -1,94 +1,59 @@
 <channels>
 <channel>
-<name>[B][COLOR lime]FILMES E SERIES MAGNET[/COLOR][/B]</name>
-<thumbnail>https://i.pinimg.com/originals/05/1d/b9/051db99b019d8ab861c87ac76c04ed81.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/TBSILVO1/MOVIEPLAY/main/TORRENT/ENTRADA</externallink>
-<fanart>https://i.pinimg.com/originals/05/1d/b9/051db99b019d8ab861c87ac76c04ed81.jpg</fanart>
-<info>
-
-[COLOR white][B]Entre para filmes e séries por links magnéticos[/COLOR][/B]</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>[B]FILMES[/B]</name>
+<name>[B][COLOR lime]● [/COLOR]CATEGORIA: [COLOR lime]LANÇAMENTOS[/COLOR][/B]</name>
 <thumbnail>https://ia601406.us.archive.org/5/items/series_20200510/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/TBSILVO1/MOVIEPLAY/main/FILMES</externallink>
+<externallink>https://github.com/TBSILVO1/MOVIEPLAY/raw/main/TORRENT/LAN%C3%87AMENTOS</externallink>
 <fanart>https://ia601504.us.archive.org/0/items/entrar_20200510_0411/Fanart.png</fanart>
-<info>
-
-[COLOR white][B]Entre para filmes disponíveis[/COLOR][/B]</info>
+<info>Entre para filmes LANÇAMENTOS.</info>
 </channel>
 </channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
+<name>[B][COLOR lime]● [/COLOR]CATEGORIA: [COLOR lime]NACIONAIS[/COLOR][/B]</name>
+<thumbnail>https://ia601406.us.archive.org/5/items/series_20200510/filmes.png</thumbnail>
+<externallink>https://github.com/TBSILVO1/MOVIEPLAY/raw/main/TORRENT/NACIONAIS</externallink>
+<fanart>https://ia601504.us.archive.org/0/items/entrar_20200510_0411/Fanart.png</fanart>
+<info>Entre para filmes NACIONAIS.</info>
+</channel>
+</channels>
 
 <channels>
 <channel>
-<name>[B]SÉRIES[/B]</name>
+<name>[B][COLOR lime]● [/COLOR]CATEGORIA: [COLOR lime]FRANQUIAS E TRILOGIAS[/COLOR][/B]</name>
+<thumbnail>https://ia601406.us.archive.org/5/items/series_20200510/filmes.png</thumbnail>
+<externallink>https://github.com/TBSILVO1/MOVIEPLAY/raw/main/TORRENT/FRANQUIAS</externallink>
+<fanart>https://ia601504.us.archive.org/0/items/entrar_20200510_0411/Fanart.png</fanart>
+<info>Entre para filmes com FRANQUIAS.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]● [/COLOR]CATEGORIA: [COLOR lime]FILMES DIVERSOS[/COLOR][/B]</name>
+<externallink>https://raw.githubusercontent.com/TBSILVO1/MOVIEPLAY/main/TORRENT/FILMES/DIVERSOS</externallink>
+<thumbnail>https://ia601406.us.archive.org/5/items/series_20200510/filmes.png</thumbnail>
+<fanart>https://ia601504.us.archive.org/0/items/entrar_20200510_0411/Fanart.png</fanart>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>[B][COLOR lime]● [/COLOR]CATEGORIA: [COLOR lime]SERIES[/COLOR][/B]</name>
+<externallink>https://raw.githubusercontent.com/TBSILVO1/MOVIEPLAY/main/TORRENT/SERIES/MENU</externallink>
 <thumbnail>https://ia601406.us.archive.org/5/items/series_20200510/series.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/TBSILVO1/MOVIEPLAY/main/CATSERIES</externallink>
 <fanart>https://ia601504.us.archive.org/0/items/entrar_20200510_0411/Fanart.png</fanart>
-<info>
-
-[COLOR white][B]Entre para séries disponíveis[/COLOR][/B]</info>
+<info>Entre para filmes com SERIES.</info>
 </channel>
 </channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
 <channel>
-<name>[B]DESENHOS & ANIMES[/B]</name>
-<thumbnail>https://ia601507.us.archive.org/30/items/da_20200918/da.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/TBSILVO1/MOVIEPLAY/main/DESENHOS%26ANIMES</externallink>
-<fanart>https://ia601507.us.archive.org/30/items/da_20200918/da.png</fanart>
-<info>
-
-[COLOR white][B]Entre para desenhos e animes[/COLOR][/B]</info>
+<name>[B][COLOR lime]● [/COLOR]CATEGORIA: [COLOR lime]TESTES[/COLOR][/B]</name>
+<externallink>https://raw.githubusercontent.com/TBSILVO1/MOVIEPLAY/main/TORRENT/TESTES/TESTE1</externallink>
+<thumbnail>https://nisekochiropractic.com/wp-content/uploads/2019/02/maintenance-image.jpg</thumbnail>
+<fanart>https://nisekochiropractic.com/wp-content/uploads/2019/02/maintenance-image.jpg</fanart>
+<info>Entre para filmes com SERIES.</info>
 </channel>
 </channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[B]MUNDO DC COMICS[/B]</name>
-<thumbnail>https://cinesiageek.com.br/wp-content/uploads/2020/08/dc-comics-logo.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/TBSILVO1/MOVIEPLAY/main/MUNDODC</externallink>
-<fanart>https://cinesiageek.com.br/wp-content/uploads/2020/08/dc-comics-logo.jpg</fanart>
-<info>
-
-[COLOR white][B]Entre para filmes da DC Comics[/COLOR][/B]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[B]FRANQUIAS[/B]</name>
-<thumbnail>https://www.wallpapertip.com/wmimgs/82-823490_the-most-searched-wallpaper-8-data-src.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/TBSILVO1/MOVIEPLAY/main/INTROFRANQUIASFILMES</externallink>
-<fanart>https://www.wallpapertip.com/wmimgs/82-823490_the-most-searched-wallpaper-8-data-src.jpg</fanart>
-<info>Franquias de sucessos</info>
-
-[COLOR white][B]Entre para coletâneas de filmes[/COLOR][/B]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[B]MELHORES DE TODOS OS TEMPOS[/B]</name>
-<thumbnail>https://ewscripps.brightspotcdn.com/dims4/default/ebf1806/2147483647/strip/true/crop/1000x563+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F84%2Ffd%2F01145d084cd2b2a6a4296467c72d%2Fthe-lion-king-official-trailer-disney-screenshot.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/TBSILVO1/MOVIEPLAY/main/FILMESRC/EPICS</externallink>
-<fanart>https://ewscripps.brightspotcdn.com/dims4/default/ebf1806/2147483647/strip/true/crop/1000x563+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F84%2Ffd%2F01145d084cd2b2a6a4296467c72d%2Fthe-lion-king-official-trailer-disney-screenshot.png</fanart>
-<info>
-
-[COLOR white][B]Entre para os melhores filmes de todos os tempos[/COLOR][/B]</info>
-</channel>
-</channels>
-
