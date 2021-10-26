@@ -1,5 +1,6 @@
 <item>
 <title>EPISODIO > 1</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e7268dc748394e319d35e747a4cab6c674c6b4da</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9310c8d2bd0433524209f5b276ab505478ae0c4</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ukR0MkCQE6IylzBPd61txJi1L3E.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/xxlteGxXhpgnoMF7SvdYwHvljnB.jpg</fanart>
@@ -7,6 +8,7 @@
 
 <item>
 <title>EPISODIO > 2</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:zx552ghrqbtedxkz33drmiit5dxg7j3g</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a95f5215f23e9ecdf6fd06adbcf9bd05d0ffb9f4</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ukR0MkCQE6IylzBPd61txJi1L3E.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/xxlteGxXhpgnoMF7SvdYwHvljnB.jpg</fanart>
@@ -14,7 +16,32 @@
 
 <item>
 <title>EPISODIO > 3</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bbw5xmvy3lfrvxysqg34trd6h734goj6</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f1850a67dcfc039bc564de40070933923070268a</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ukR0MkCQE6IylzBPd61txJi1L3E.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xxlteGxXhpgnoMF7SvdYwHvljnB.jpg</fanart>
+</item>
+
+<item>
+<title>EPISODIO > 4</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ttxg56fpfxhvet27j2dqh2ib4u5gbce6</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4c4d81599c97b493e8eda09aab6dba0c2b8ea7e5</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ukR0MkCQE6IylzBPd61txJi1L3E.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xxlteGxXhpgnoMF7SvdYwHvljnB.jpg</fanart>
+</item>
+
+<item>
+<title>EPISODIO > 5</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7vpzgsaqbbiajjz326njhjqsatdolmug</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c97003d3605d8d06ae5e0087232996f325c77762</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ukR0MkCQE6IylzBPd61txJi1L3E.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xxlteGxXhpgnoMF7SvdYwHvljnB.jpg</fanart>
+</item>
+
+<item>
+<title>EPISODIO > 6</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:rnl2wjr2ojbelji2nt7tgpigfi3clc45</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c413114a2b6c798e2bf363bb84f88bc3867f649e</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ukR0MkCQE6IylzBPd61txJi1L3E.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/xxlteGxXhpgnoMF7SvdYwHvljnB.jpg</fanart>
 </item>
