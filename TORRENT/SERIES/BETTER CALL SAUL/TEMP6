@@ -6,8 +6,15 @@
 </item>
 
 <item>
-<title>EPISODIO >1 E 2</title>
+<title>EPISODIO >3</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54rdzt4cj2hsvtbmbbxdoyz7bqf2bunm</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/rbNc44otT6VRd7QpxqlUAMyByaQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/t15KHp3iNfHVQBNIaqUGW12xQA4.jpg</fanart>
+</item>
+
+<item>
+<title>EPISODIO >4</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d5126101d1bb2bf5d5bcbc896c596f4c7881dbd</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/rbNc44otT6VRd7QpxqlUAMyByaQ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/t15KHp3iNfHVQBNIaqUGW12xQA4.jpg</fanart>
 </item>
