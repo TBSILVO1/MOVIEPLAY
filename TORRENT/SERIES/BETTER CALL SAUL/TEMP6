@@ -18,3 +18,10 @@
 <thumbnail>https://image.tmdb.org/t/p/w342/rbNc44otT6VRd7QpxqlUAMyByaQ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/t15KHp3iNfHVQBNIaqUGW12xQA4.jpg</fanart>
 </item>
+
+<item>
+<title>EPISODIO >5</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26eecb2d087788f174a996326a1524ea5f9c2abe</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/rbNc44otT6VRd7QpxqlUAMyByaQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/t15KHp3iNfHVQBNIaqUGW12xQA4.jpg</fanart>
+</item>
