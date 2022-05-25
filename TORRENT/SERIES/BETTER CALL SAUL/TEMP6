@@ -32,3 +32,10 @@
 <thumbnail>https://image.tmdb.org/t/p/w342/rbNc44otT6VRd7QpxqlUAMyByaQ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/t15KHp3iNfHVQBNIaqUGW12xQA4.jpg</fanart>
 </item>
+
+<item>
+<title>EPISODIO >7</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0c15736f2d09ff42b973d26b5fb9ffafdc8774f6&dn</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/rbNc44otT6VRd7QpxqlUAMyByaQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/t15KHp3iNfHVQBNIaqUGW12xQA4.jpg</fanart>
+</item>
