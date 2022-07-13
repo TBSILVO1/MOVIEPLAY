@@ -1,4 +1,5 @@
-[b][color gold]PARTE 1[/b][/color]
+<item>
+<title>[b][color gold]PARTE 1[/b][/color]</title>
 
 <item>
 <title>EPISODIO >1 E 2</title>
@@ -42,10 +43,11 @@
 <fanart>https://www.themoviedb.org/t/p/original/t15KHp3iNfHVQBNIaqUGW12xQA4.jpg</fanart>
 </item>
 
-[b][color gold]PARTE 2[/b][/color]
+<item>
+<title>[b][color gold]PARTE 2[/b][/color]</title>
 
 <item>
-<title>EPISODIO >8</title>
+<title>EPISODIO >8.1</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BQKXG3ZNBH7UFOLT2JVV7OP7V7OIO5HW&dn</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/rbNc44otT6VRd7QpxqlUAMyByaQ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/t15KHp3iNfHVQBNIaqUGW12xQA4.jpg</fanart>
